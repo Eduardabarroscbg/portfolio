@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">🌐 Portfólio Pessoal — Eduarda Barros</h1>
 </div>
-.
+
 ![Project Preview](eduardabarros-banner.png)
 
 Um portfólio pessoal desenvolvido durante a trilha de **Front-end do Elas+ Tech**, aplicando conceitos de HTML semântico, CSS moderno, JavaScript interativo e dark mode. O projeto foi iniciado na primeira aula e aprimorado continuamente ao longo da trilha.
