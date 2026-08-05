@@ -4,7 +4,7 @@
 
 ![Project Preview](eduardabarros-banner.png)
 
-Meu portfólio pessoal e profissional, onde reúno minha trajetória, habilidades técnicas e os projetos que venho desenvolvendo. Comecei a construí-lo durante a trilha de Front-end do Elas+ Tech e venho evoluindo continuamente, aplicando HTML semântico, CSS moderno, JavaScript interativo e dark mode..
+Meu portfólio pessoal e profissional, onde reúno minha trajetória, habilidades técnicas e os projetos que venho desenvolvendo. Comecei a construí-lo durante a trilha de Front-end do Elas+ Tech e venho evoluindo continuamente, aplicando HTML semântico, CSS moderno, JavaScript interativo e dark mode.
 
 ## 📌 Sobre
 Este projeto é a minha vitrine profissional, reunindo:
