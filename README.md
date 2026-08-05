@@ -82,7 +82,7 @@ Ou acesse diretamente pelo [GitHub Pages](https://eduardabarroscbg.github.io/por
 - Boas práticas de **HTML semântico** e acessibilidade.
 
 ## 🔗 Links
-- [Live Demo](https://eduardabarroscbg.github.io/portfolio-Ada/)
+- [Live Demo](https://eduardabarroscbg.github.io/portfolio/)
 - **GitHub:** [@Eduardabarroscbg](https://github.com/eduardabarroscbg)
 
 ---
