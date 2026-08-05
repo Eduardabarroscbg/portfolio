@@ -61,8 +61,6 @@ portfolio/
    open index.html
    ```
 
-Ou acesse diretamente pelo [GitHub Pages](https://eduardabarroscbg.github.io/portfolio/).
-
 ## 🎨 Identidade Visual
 
 | Elemento | Valor | Uso |
@@ -83,7 +81,6 @@ Ou acesse diretamente pelo [GitHub Pages](https://eduardabarroscbg.github.io/por
 
 ## 🔗 Links
 - [Live Demo](https://eduardabarroscbg.github.io/portfolio/)
-- **GitHub:** [@Eduardabarroscbg](https://github.com/eduardabarroscbg)
 
 ---
 
