@@ -4,10 +4,10 @@
 
 ![Project Preview](eduardabarros-banner.png)
 
-Um portfólio pessoal desenvolvido durante a trilha de **Front-end do Elas+ Tech**, aplicando conceitos de HTML semântico, CSS moderno, JavaScript interativo e dark mode. O projeto foi iniciado na primeira aula e aprimorado continuamente ao longo da trilha.
+Meu portfólio pessoal e profissional, onde reúno minha trajetória, habilidades técnicas e os projetos que venho desenvolvendo. Comecei a construí-lo durante a trilha de Front-end do Elas+ Tech e venho evoluindo continuamente, aplicando HTML semântico, CSS moderno, JavaScript interativo e dark mode.
 
 ## 📌 Sobre
-Este projeto é uma implementação **focada em aprendizado** de um portfólio profissional completo, explorando:
+Este projeto é a minha vitrine profissional, reunindo:
 - **HTML semântico** com estrutura acessível e bem organizada.
 - **Dark mode** implementado com JavaScript e variáveis CSS.
 - **Animações e interatividade** com IntersectionObserver e scroll suave.
@@ -37,13 +37,13 @@ portfolio/
 ├── index.html            # Estrutura da página
 ├── main.css              # Estilos principais
 ├── project-detail.css    # Estilos do overlay de projetos
-├── script.js             # Interatividade geral
+├── script.js              # Interatividade geral
 ├── project-detail.js     # Lógica do overlay de projetos
 ├── Eduarda.png           # Foto de perfil
 ├── eduardabarros-banner.png  # Banner do README
-├── Roomify.png           # Preview do projeto Roomify
-├── mercedes.png          # Preview do projeto Mercedes F1
-├── cine.png              # Preview do projeto CineSystem
+├── Roomify.png            # Preview do projeto Roomify
+├── mercedes.png           # Preview do projeto Mercedes F1
+├── cine.png               # Preview do projeto CineSystem
 └── macbook-landing.bxduO2K2.png  # Preview do projeto MacBook
 ```
 
@@ -61,7 +61,7 @@ portfolio/
    open index.html
    ```
 
-Ou acesse diretamente pelo [GitHub Pages](https://eduardabarroscbg.github.io/portfolio-Ada/).
+Ou acesse diretamente pelo [GitHub Pages](https://eduardabarroscbg.github.io/portfolio/).
 
 ## 🎨 Identidade Visual
 
