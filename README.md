@@ -4,7 +4,13 @@
 
 ![Project Preview](eduardabarros-banner.png)
 
-Meu portfólio pessoal e profissional, onde reúno minha trajetória, habilidades técnicas e os projetos que venho desenvolvendo. Comecei a construí-lo durante a trilha de Front-end do Elas+ Tech e venho evoluindo continuamente, aplicando HTML semântico, CSS moderno, JavaScript interativo e dark mode.
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🔗_Ver_Live_Demo-f472b6?style=for-the-badge)](https://eduardabarroscbg.github.io/portfolio/)
+
+</div>
+
+Meu portfólio pessoal e profissional, onde reúno minha trajetória, habilidades técnicas e os projetos que venho desenvolvendo. Comecei a construí-lo durante a trilha de Front-end do Elas+ Tech e venho evoluindo continuamente, aplicando HTML semântico, CSS moderno, JavaScript interativo e dark mode. Atualmente também venho estudando Dados e Inteligência Artificial, e essa jornada já está refletida nas seções de Habilidades e Experiências do portfólio.
 
 ## 📌 Sobre
 Este projeto é a minha vitrine profissional, reunindo:
@@ -78,9 +84,6 @@ portfolio/
 - Publicar um projeto com **GitHub Pages**.
 - Criar um **overlay de projetos** com suporte a navegação por hash de URL.
 - Boas práticas de **HTML semântico** e acessibilidade.
-
-## 🔗 Links
-- [Live Demo](https://eduardabarroscbg.github.io/portfolio/)
 
 ---
 
